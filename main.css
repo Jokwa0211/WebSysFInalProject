@@ -1,0 +1,63 @@
+
+.colorblack{
+    color: black;
+}
+.bgbeige{
+    background-color: #B5C18E;
+}
+
+.logotext{
+    color: #F1F1F1;
+}
+
+.bggreen{
+    background-color: #D1E7DD;
+}
+
+.parallax {
+    background-image: url("manila_hotel.jpg");
+    min-height: 560px; 
+    width: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-lightbrown{
+    background-color: #EADBC8;
+}
+
+.bg-lightwhite{
+    background-color: #F1F1F1;
+}
+
+.absolute{
+    position: absolute;
+}
+
+section{
+    padding-top: 35px;
+}
+
+.bradius{
+    border-radius: 30px;
+}
+
+.bgbrown{
+    background-color: #C7B7A3;
+}
+
+.bg-darkbrown{
+    background-color: #C7B7A3;
+}
+
+.bg-footer{
+    background-color: #909A71;
+}
+
+.goldcolor{
+    color: #FFD700;
+    background-color: #FFD700;
+}
